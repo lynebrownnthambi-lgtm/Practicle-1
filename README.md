@@ -29,7 +29,6 @@
  <a href="https://www.pexels.com/">For no copyright images</a>
 </li>
 </ol>
-
- <img src="https://images.pexels.com/photos/30063037/pexels-photos-30063037.jpeg"alt="walk way"width="500"height="500"/>
+<img src="https://images.pexels.com/photos/30063037/pexels-photos-30063037.jpeg"alt="walk way"width="500"height="500"/>
 </body>
 </html>
